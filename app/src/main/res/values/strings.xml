@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Numbers Trivia</string>
+    <string name="no_internet">No Internet Access Found</string>
+    <string name="method">random</string>
+    <string name="no_trivia">No trivia found.</string>
+</resources>
